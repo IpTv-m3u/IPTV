@@ -2,27 +2,22 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgYJwck/One-PH.jpg" 
-group-title="News",One PH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VgYJwck/One-PH.jpg" group-title="News",One PH
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/115.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1200px-UNTV-Logo-2016.svg.png" 
-group-title="News",UNTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1200px-UNTV-Logo-2016.svg.png" group-title="News",UNTV
 https://untvweb.com/live-stream/untvweb.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMZtVYd/Pics-Art-10-31-01-28-39.png" 
-group-title="News",ANC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMZtVYd/Pics-Art-10-31-01-28-39.png" group-title="News",ANC
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/DZRH_News_Television_logo.jpg" 
-group-title="News",DZRH News Television
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/DZRH_News_Television_logo.jpg" group-title="News",DZRH News Television
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/108.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" 
-group-title="News",CNN Philippines
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 
 
@@ -30,16 +25,13 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fFr2ZGt/CBSN-NEW-YORK-LOG1.png" 
-group-title="News",CBSN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fFr2ZGt/CBSN-NEW-YORK-LOG1.png" group-title="News",CBSN
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" 
-group-title="News", Bloomberg Business
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News", Bloomberg Business
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" 
-group-title="News",CGTN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
