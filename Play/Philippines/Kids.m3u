@@ -1,26 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/2000?cb=20180730143228"
- group-title="Kids",Animax
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/2000?cb=20180730143228" group-title="Kids",Animax
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" 
-group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" 
-group-title="Kids",Disney Channel Asia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel Asia
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png" 
-group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png" group-title="Kids",Disney Junior
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Nick_2009.svg/revision/latest/scale-to-width-down/2000?cb=20200621143348" 
-group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Nick_2009.svg/revision/latest/scale-to-width-down/2000?cb=20200621143348" group-title="Kids",Nickelodeon
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
@@ -28,8 +23,7 @@ group-title="Kids",Nickelodeon
 https://indotv.tech/m3u8sd/usee-nickelodeon-indonesia.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jV9yP4n/Pics-Art-10-31-08-15-45.png" 
-group-title="Kids",Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jV9yP4n/Pics-Art-10-31-08-15-45.png" group-title="Kids",Cartoon Network HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
@@ -37,17 +31,14 @@ group-title="Kids",Cartoon Network HD
 https://indotv.tech/m3u8sd/usee-cartoonnetwork-indonesia.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" 
-group-title="Kids",PBS Kids
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" 
-group-title="Kids",TVO Kids
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" 
-group-title="Kids",Da Vinci
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
