@@ -1,28 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" 
-group-title="South Korea",Arirang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="South Korea",Arirang
 http://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniTQvGjbmo1I789CDbS8b4nPE1UJYHeCcqpPl90yg=s900-c-k-c0x00ffffff-no-rj" 
-group-title="South Korea",All The K-POP
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniTQvGjbmo1I789CDbS8b4nPE1UJYHeCcqpPl90yg=s900-c-k-c0x00ffffff-no-rj" group-title="South Korea",All The K-POP
 https://stream-04.sg1.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzA5vfwYCS4nbK-GCJpAVq9o)/dm/3/x4kzk1v/s/live-3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/1200px-KNN_logo.svg.png" 
-group-title="South Korea",KNN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/1200px-KNN_logo.svg.png" group-title="South Korea",KNN
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vhHMs7W/2000-cb-20210114083426.png" 
-group-title="South Korea",MBC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vhHMs7W/2000-cb-20210114083426.png" group-title="South Korea",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" 
-group-title="South Korea",Hallypop
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="South Korea",Hallypop
 https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
 
 
