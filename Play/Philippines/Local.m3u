@@ -44,43 +44,35 @@ https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/2000?cb=20210302112414" 
-group-title="Local",GTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/2000?cb=20210302112414" group-title="Local",GTV
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/2000?cb=20200505184109" 
-group-title="Local",IBC
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/2000?cb=20200505184109" group-title="Local",IBC
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://net25.tv/wp-content/uploads/2020/10/net25_newlogo_2020.png" 
-group-title="Local",NET 25
+#EXTINF:-1 tvg-logo="https://net25.tv/wp-content/uploads/2020/10/net25_newlogo_2020.png" group-title="Local",NET 25
 https://ebc.sytes.net/hls/net25.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" 
-group-title="Local",TVShop
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" group-title="Local",TVShop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" 
-group-title="Local",Central Luzon Television 36
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" group-title="Local",Central Luzon Television 36
 https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/index.php?id=cltv36
 
 
-#EXTINF:-1 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" 
-group-title="Local",Island Living Channel
+#EXTINF:-1 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="Local",Island Living Channel
 http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mytv.ph/assets/img/logo-white.png" 
-group-title="Local",MyTV Cebu
+#EXTINF:-1 tvg-logo="https://mytv.ph/assets/img/logo-white.png" group-title="Local",MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sari-Sari_alternate_Logo.PNG/revision/latest/scale-to-width-down/2000?cb=20160619031101" 
-group-title="Local",Sari-Sari
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sari-Sari_alternate_Logo.PNG/revision/latest/scale-to-width-down/2000?cb=20160619031101" group-title="Local",Sari-Sari
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/139.m3u8
 
