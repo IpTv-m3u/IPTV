@@ -1,1 +1,8 @@
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_(TV_network).png/revision/latest/scale-to-width-down/732?cb=20200308081417" 
+group-title="Sports",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+
+
