@@ -1,46 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" 
-group-title="Entertainment",Crime + Investigation
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
 http://203.154.243.31:15001
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" 
-group-title="Entertainment",Warner TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://203.154.243.89:11205/
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qnyt08V/Comedy-Central-2018-Symbol.png" 
-group-title="Entertainment",Comedy Central
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qnyt08V/Comedy-Central-2018-Symbol.png" group-title="Entertainment",Comedy Central
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
 
 
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" 
-group-title="Entertainment",FX
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="Entertainment",FX
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4G5P34/ABC-TV-2021.png" 
-group-title="Entertainment",ABC TV Australia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4G5P34/ABC-TV-2021.png" group-title="Entertainment",ABC TV Australia
 https://c.mjh.nz/101002510251/
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png" 
-group-title="Entertainment",Pop TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png" group-title="Entertainment",Pop TV
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7z7Bmr/tv5monde-apac-1.png" 
-group-title="Entertainment",TV5Monde Asie
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7z7Bmr/tv5monde-apac-1.png" group-title="Entertainment",TV5Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1LpvvxG/d-J-t-Lj-Xq-BKn1o6q-IDPsd-Qcr-GIy-JN-Mp7d-M1j-Ba-Y6-QDiju-V-Zac.png" 
-group-title="Entertainment",Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1LpvvxG/d-J-t-Lj-Xq-BKn1o6q-IDPsd-Qcr-GIy-JN-Mp7d-M1j-Ba-Y6-QDiju-V-Zac.png" group-title="Entertainment",Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YWYSFWJ/ezgif-com-gif-maker-removebg-preview.png" 
-group-title="Entertainment",Zee World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YWYSFWJ/ezgif-com-gif-maker-removebg-preview.png" group-title="Entertainment",Zee World
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/index.m3u8
 
