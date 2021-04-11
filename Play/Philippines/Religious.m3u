@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/INCTV-Logo-2012.png/revision/latest/scale-to-width-down/732?cb=20180106181055" 
+group-title="Religious",INC TV
+https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?
+
+
+#EXTINF:-1 tvg-logo="https://smni.com/static/6a6e2c7fd7504e4dad476c6a9d58021c/630fb/smni-logo.png" 
+group-title="Religious",SMNI
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://gctv.asia/img/gctv-logo.png" 
+group-title="Religious",GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.jing.fm/clipimg/full/25-257085_cbn-logo-cbn-tv-logo.png" 
+group-title="Religious",CBN
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Hillsong_Channel_Logo.png" 
+group-title="Religious",Hillsong Channel
+http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+
