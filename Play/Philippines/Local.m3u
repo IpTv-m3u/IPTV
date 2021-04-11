@@ -1,1 +1,16 @@
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409"
+group-title="Local",Kapamilya Channel
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/2000?cb=20200807092847" 
+group-title="Local",PTV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_(2019).svg/revision/latest/scale-to-width-down/2000?cb=20190117181956" 
+group-title="Local",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
