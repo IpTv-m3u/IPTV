@@ -1,9 +1,14 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="143loveme.com" tvg-name="= Gandang-Dilag-Unexpected-Kantot-Ng-Masahista" tvg-logo="https://katorsex.com/wp-content/uploads/2021/04/Gandang-Dilag-Unexpected-Kantot-Ng-Masahista.jpg" group-title="INFO",= Gandang-Dilag-Unexpected-Kantot-Ng-Masahista
-https://143loveme.com/files/videos/2021/04/14/16183745314d929/16183745314d929.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://i.ibb.co/tqGWgHz/Png-Item-340456.png" group-title="Movies",Red by HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 
-#EXTINF:-1 tvg-id="143loveme.com" tvg-name="= Satisified-Naman-Siya-Sa-Kantot-Ng-Biker" tvg-logo="" group-title="INFO",= Satisified-Naman-Siya-Sa-Kantot-Ng-Biker
-https://143loveme.com/files/videos/2019/07/23/1563853704324dd/1563853704324dd.m3u8
+#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://i.ibb.co/tqGWgHz/Png-Item-340456.png" group-title="Movies",Red by HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
 
 
