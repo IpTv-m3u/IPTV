@@ -10,9 +10,9 @@
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Auto</td>
+		<tr><td align="left">Boruto: Naruto</td>
 		<td align="right">6</td><td align="left">
-		<code>https://iptv-org.github.io/iptv/categories/auto.m3u</code>
+		<code>https://raw.githubusercontent.com/IpTv-m3u/IPTV/Jrc/Noypi-IPTV/Boruto%3A%20Naruto%20Tagalog.m3u</code>
 		</td></tr>
 		
 		<tr><td align="left">Business</td>
