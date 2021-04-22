@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQyNDVf/Sanggano%2C%20Sanggago%E2%80%99t%20Sanggwapo.png" group-title="cine",Sanggano, Sanggago’t Sanggwapo
+http://www0419.vidnode.xyz/hls/tNUJ2AfVeoSzloq/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQyODhf/3pol%20Trobol%20Huli%20Ka%20Balbon.png" group-title="cine",3pol Trobol Huli Ka Balbon
+http://cdn0420.vidnode.xyz/hls/zyYzn4I7jkMYg0v/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQzMjRf/Alter%20Me.png" group-title="cine",Alter Me
+http://www0419.vidnode.xyz/hls/bJlPbbrmX9JDGXC/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQzNzNf/Boyette%20Not%20a%20Girl%20Yet.png" group-title="cine",Boyette: Not a Girl Yet
+http://www0419.vidnode.xyz/hls/CvubwjQ3KwLARwv/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQzOTJf/Four%20Sisters%20Before%20the%20Wedding.png" group-title="cine",Four Sisters Before the Wedding
+http://www0419.vidnode.xyz/hls/D7i0EjcL7whw2Af/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQ0MTNf/Pakboys%20Takusa.png" group-title="cine",Pakboys Takusa
+http://cdn0419.vidnode.xyz/hls/Nb7UztNI6six7Ho/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQ0MzBf/Mang%20Kepweng.png" group-title="cine",Mang Kepweng
+http://cdn0419.vidnode.xyz/hls/wqNRkbzYHTMQvmO/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQ0NDZf/Princess%20Dayareese.png" group-title="cine",Princess Dayareese
+http://www0420.vidnode.xyz/hls/lvDLugmaI2BaD6w/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQ0NTZf/Ayuda%20Babes.png" group-title="cine",Ayuda Babes
+http://cdn0421.vidnode.xyz/hls/A6TS1eu9gyu8uxQ/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQ0NjBf/Tililing.png" group-title="cine",Tililing
+http://cdn0421.vidnode.xyz/hls/aenBfCDHaAI9jnQ/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQ0Nzdf/12%20Days%20to%20Destiny.png" group-title="cine",BladeStories: 12 Days to Destiny
+http://www0419.vidnode.xyz/hls/yek3vqLbCk2n9fF/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQ0ODlf/The%20Panti%20Sisters.png" group-title="cine",The Panti Sisters
+http://www0419.vidnode.xyz/hls/p8tTuA87SBO2QXz/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ4NzQ1MzNf/Steal-2021-full.png" group-title="cine",Steal
+https://cdn0419.vidnode.xyz/hls/qvZQURjGKWmp0pT/prog_index.m3u8
