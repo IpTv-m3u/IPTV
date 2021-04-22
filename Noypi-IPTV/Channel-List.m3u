@@ -105,9 +105,9 @@
 		<code>https://iptv-org.github.io/iptv/categories/movies.m3u</code>
 		</td></tr>
 		
-		<tr><td align="left">Music</td>
+		<tr><td align="left">CinePinoy</td>
 		<td align="right">309</td><td align="left">
-		<code>https://iptv-org.github.io/iptv/categories/music.m3u</code>
+		<code>https://raw.githubusercontent.com/IpTv-m3u/IPTV/Jrc/CinePinoy.m3u</code>
 		</td></tr>
 		
 		<tr><td align="left">News</td>
